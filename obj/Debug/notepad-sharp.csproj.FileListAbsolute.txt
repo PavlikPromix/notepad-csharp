@@ -1,0 +1,10 @@
+C:\Users\beriy\source\repos\notepad-sharp\obj\Debug\notepad-sharp.csprojAssemblyReference.cache
+C:\Users\beriy\source\repos\notepad-sharp\obj\Debug\notepad_sharp.Form1.resources
+C:\Users\beriy\source\repos\notepad-sharp\obj\Debug\notepad_sharp.Properties.Resources.resources
+C:\Users\beriy\source\repos\notepad-sharp\obj\Debug\notepad-sharp.csproj.GenerateResource.cache
+C:\Users\beriy\source\repos\notepad-sharp\obj\Debug\notepad-sharp.csproj.CoreCompileInputs.cache
+C:\Users\beriy\source\repos\notepad-sharp\bin\Debug\notepad-sharp.exe.config
+C:\Users\beriy\source\repos\notepad-sharp\bin\Debug\notepad-sharp.exe
+C:\Users\beriy\source\repos\notepad-sharp\bin\Debug\notepad-sharp.pdb
+C:\Users\beriy\source\repos\notepad-sharp\obj\Debug\notepad-sharp.exe
+C:\Users\beriy\source\repos\notepad-sharp\obj\Debug\notepad-sharp.pdb
